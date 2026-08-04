@@ -8,9 +8,8 @@ No ads • No subscriptions • No telemetry
 
 Supports macOS 14.6+
 
+<img width="861" height="563" alt="2026-08-0422 03 58-ezgif com-crop" src="https://github.com/user-attachments/assets/cc235750-7c30-4472-8742-948eb9ea601e" />
 ---
-
-## 🇺🇸 English
 
 BetterClipboard is a lightweight native clipboard manager built for macOS.
 
