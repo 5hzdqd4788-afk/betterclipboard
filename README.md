@@ -12,6 +12,8 @@ Supports macOS 14.6+
 
 </div>
 
+
+
 ---
 
 ## 🇺🇸 English
@@ -29,6 +31,9 @@ No tracking.
 No analytics.
 
 ---
+
+<img width="861" height="563" alt="2026-08-0422 03 58-ezgif com-crop" src="https://github.com/user-attachments/assets/42de333d-b91c-4ab4-b578-a54de9214238" />
+
 
 ## Features
 
