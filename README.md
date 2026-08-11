@@ -52,6 +52,8 @@ No analytics.
 - Typical memory usage: **under 50 MB**
 - Up to **100 MB** with a full clipboard history
 
+P.S. The repository does not contain the most up-to-date source code; attempting to run it via Xcode may result in errors.
+
 ---
 
 ### System Requirements
@@ -95,3 +97,5 @@ You can still access BetterClipboard at any time from the menu bar icon.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/5hzdqd4788-afk/betterclipboard/main/install.sh | bash
+
+
