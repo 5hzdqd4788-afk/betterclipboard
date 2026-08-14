@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://5hzdqd4788-afk.github.io/betterclipboard/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>widzbmbGqCWjdSAIvC3NHxAGWxNGB7uj3xAFeDq2utw=</string>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+</dict>
+</plist>
